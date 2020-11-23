@@ -105,6 +105,7 @@ set (sources_common
 #	errno/get_errno.c
 #	errno/set_errno.c
 
+
 	locale/fix_grouping.c
 	locale/lctype.c
 	locale/ldpart.c
