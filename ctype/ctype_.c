@@ -61,6 +61,7 @@
  * SUCH DAMAGE.
  */
 
+#include <_ansi.h>
 #include <low/_flavour.h>
 
 #if defined(LIBC_SCCS) && !defined(lint)

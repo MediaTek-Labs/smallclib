@@ -59,6 +59,7 @@ No supporting OS subroutines are required.  */
 
 /* same as newlib 2.0 */
 
+#include <_ansi.h>
 #include <strings.h>
 
 int
